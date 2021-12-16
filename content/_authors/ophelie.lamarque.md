@@ -5,7 +5,7 @@ domaine: Design
 github: ophelam
 missions:
   - start: 2021-05-27
-    end: 2021-12-31
+    end: 2022-12-31
     status: service
     employer: Benext
 startups: 
